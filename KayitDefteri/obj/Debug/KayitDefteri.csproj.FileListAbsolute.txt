@@ -1,0 +1,30 @@
+F:\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe.config
+F:\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe
+F:\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.pdb
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csprojAssemblyReference.cache
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.Properties.Resources.resources
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.GenerateResource.cache
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.CoreCompileInputs.cache
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.exe
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.pdb
+F:\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.FrmKayit.resources
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe.config
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.pdb
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csprojAssemblyReference.cache
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.FrmKayit.resources
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.Properties.Resources.resources
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.GenerateResource.cache
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.CoreCompileInputs.cache
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.exe
+F:\örnekler\Winform\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.pdb
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe.config
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.pdb
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.FrmKayit.resources
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.Properties.Resources.resources
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.exe
+C:\Users\iau\Desktop\KayitDefteri (1)\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.pdb
